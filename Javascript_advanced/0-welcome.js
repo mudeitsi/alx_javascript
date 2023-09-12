@@ -1,3 +1,4 @@
+#!/usr/bin/node
 function welcome(firstName, lastName) {
   /**
    * This function takes two arguments, firstName and lastName, and provides a welcome message.
